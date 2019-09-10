@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="Assignment 1"/>
+	<classpathentry kind="src" path="assin"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="javafx-sdk-12.0.2/lib/javafx-swt.jar"/>
 	<classpathentry kind="lib" path="javafx-sdk-12.0.2/lib/javafx.base.jar"/>
